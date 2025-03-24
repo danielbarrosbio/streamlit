@@ -1,0 +1,12 @@
+# Evita subir o ambiente virtual
+venv*/
+__pycache__/
+*.pyc
+
+# Evita subir arquivos de config locais
+.streamlit/secrets.toml
+
+# Evita subir arquivos temporários e configs do VS Code
+*.log
+*.env
+.vscode/
