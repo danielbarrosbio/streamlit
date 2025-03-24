@@ -2,4 +2,5 @@ streamlit>=1.24.0
 pandas>=2.1.4
 openai
 pandasai
+pyyaml
 git+https://github.com/supabase-community/supabase-py.git
